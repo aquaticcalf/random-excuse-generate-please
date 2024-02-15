@@ -5,3 +5,5 @@ for (let i = 0; i < importanceChoice.length; i++) {
         importance = importanceChoice[i].value
     }
 }
+
+const escape = document.getElementById("escape").value
