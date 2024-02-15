@@ -2,3 +2,8 @@ body {
     background-color: black;
     color: white;
 }
+
+.importance {
+    display: flex;
+    gap: 5px;
+}
