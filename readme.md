@@ -47,7 +47,7 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
 
 ### Contact
-For any questions or suggestions, feel free to open an issue or contact the repository owner.  
+For any questions or suggestions, feel free to open an issue.  
 
 ### Contributors
 <img src="https://contrib.rocks/image?repo=aquaticcalf/random-excuse-generate-please"></img>
