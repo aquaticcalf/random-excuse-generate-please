@@ -1,3 +1,6 @@
+## random excuse generate please
+[![randown](https://aqclf.xyz/randown/randown.svg)](https://aqclf.xyz/randown?username=aquaticcalf&reponame=random-excuse-generate-please)
+
 [random-excuse-generate-please](https://github.com/aquaticcalf/random-excuse-generate-please) is a tool to generate random excuses which would work 99.999% of the time.
 
 ![](https://img.shields.io/github/contributors/aquaticcalf/random-excuse-generate-please)
